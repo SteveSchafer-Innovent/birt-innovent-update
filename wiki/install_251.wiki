@@ -10,7 +10,7 @@ http://innovent.googlecode.com/svn/wiki/home.attach/install_251_2.png
 
 The Add Site dialog comes up.  You want to give the site a name such as Innovent Update and paste in the URL.
 {{{
-http://innovent.googlecode.com/svn/trunk/innovent.update
+http://svn.codespot.com/a/eclipselabs.org/birt-innovent-update/branches/2.5.2/birt.innovent.update/
 }}} 
 http://innovent.googlecode.com/svn/wiki/home.attach/install_251_3.png
 
