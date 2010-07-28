@@ -1,0 +1,3 @@
+rem this is a sample.  These headless apps need to be run in order to avoid the "lost categories" bug
+java -jar C:\eclipse\eclipse-SDK-3.5.2/plugins/org.eclipse.equinox.launcher_*.jar -application org.eclipse.equinox.p2.publisher.UpdateSitePublisher -metadataRepository file:c:\temp\repository -artifactRepository file:c:\temp\repository -source "C:\eclipse\workspaces\birt 2.5.2\innovent.update" -configs gtk.linux.x86 -compress  -publishArtifacts
+java -jar C:\eclipse\eclipse-SDK-3.5.2/plugins/org.eclipse.equinox.launcher_*.jar -application org.eclipse.equinox.p2.publisher.CategoryPublisher -metadataRepository file:c:\temp\repository -categoryDefinition "file:C:\eclipse\workspaces\birt 2.5.2\innovent.update/site.xml" -categoryQualifier -compress
