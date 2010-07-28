@@ -11,7 +11,7 @@ http://innovent.googlecode.com/svn/wiki/home.attach/install_232_2.png
 
 On the update site dialog, add the following URL
 {{{
- http://innovent.googlecode.com/svn/branches/2.3.2/innovent.update
+ http://svn.codespot.com/a/eclipselabs.org/birt-innovent-update/branches/2.3.2/birt.innovent.update
 }}}
 
 http://innovent.googlecode.com/svn/wiki/home.attach/install_232_3.png
