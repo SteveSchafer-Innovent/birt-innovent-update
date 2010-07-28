@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description url="http://innovent.googlecode.com/svn/trunk/update">
+      Eclipse Update Site for various Google Code projects.  See project details for information on individual projects.
+   </description>
+   <feature url="features/birt.controls.lib.feature_2.3.2.1.jar" id="birt.controls.lib.feature" version="2.3.2.1">
+      <category name="BIRT Controls"/>
+   </feature>
+   <feature url="features/birt.functions.lib.feature_2.3.2.1.jar" id="birt.functions.lib.feature" version="2.3.2.1">
+      <category name="BIRT Functions"/>
+   </feature>
+   <category-def name="BIRT Functions" label="BIRT Functions"/>
+   <category-def name="BIRT Controls" label="BIRT Controls"/>
+</site>
