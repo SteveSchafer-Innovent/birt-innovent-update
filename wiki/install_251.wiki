@@ -1,4 +1,4 @@
-=Installation Instructions 2.5.1=
+=Installation Instructions 2.5.1 / 2.5.2 / 2.6.0=
 
 Go to the Help Install New Software menu choice
 
