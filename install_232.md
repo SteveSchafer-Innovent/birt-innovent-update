@@ -1,0 +1,29 @@
+# Installation Instructions 2.3.2 #
+
+
+First thing is to go to the Help menu and select Software Updates.
+
+![http://innovent.googlecode.com/svn/wiki/home.attach/install_232_1.png](http://innovent.googlecode.com/svn/wiki/home.attach/install_232_1.png)
+
+You will then see the Eclipse Update Manager dialog.  You need to select the Available Software tab, and then click Add Site.
+
+![http://innovent.googlecode.com/svn/wiki/home.attach/install_232_2.png](http://innovent.googlecode.com/svn/wiki/home.attach/install_232_2.png)
+
+On the update site dialog, add the following URL
+```
+ http://svn.codespot.com/a/eclipselabs.org/birt-innovent-update/branches/2.3.2/birt.innovent.update
+```
+
+![http://innovent.googlecode.com/svn/wiki/home.attach/install_232_3.png](http://innovent.googlecode.com/svn/wiki/home.attach/install_232_3.png)
+
+You should now see the innovent update site, you need to select the check boxes for the items you would like to install, and then press the Install button in the upper right corner.
+
+![http://innovent.googlecode.com/svn/wiki/home.attach/install_232_4.png](http://innovent.googlecode.com/svn/wiki/home.attach/install_232_4.png)
+
+You are then given a dialog showing what controls will be installed (after the dependencies have been analyzed).
+
+![http://innovent.googlecode.com/svn/wiki/home.attach/install_232_5.png](http://innovent.googlecode.com/svn/wiki/home.attach/install_232_5.png)
+
+Finally, after the software has downloaded and been installed you will be asked to restart, which you should do.
+
+![http://innovent.googlecode.com/svn/wiki/home.attach/install_232_6.png](http://innovent.googlecode.com/svn/wiki/home.attach/install_232_6.png)
